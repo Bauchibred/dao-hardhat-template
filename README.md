@@ -90,7 +90,7 @@ The following have tools to help you start a DAO without having to deploy contra
 
 Work with this repo in the browser (optional)<br/>
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/PatrickAlphaC/dao-template)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/Bauchibred/dao-hardhat-template)
 
 It's recommended that you've gone through the [hardhat getting started documentation](https://hardhat.org/getting-started/) before proceeding here.
 
@@ -111,7 +111,7 @@ It's recommended that you've gone through the [hardhat getting started documenta
 1. Clone this repo:
 
 ```
-git clone https://github.com/PatrickAlphaC/dao-template
+git clone https://github.com/Bauchibred/dao-hardhat-template
 cd dao-template
 ```
 
@@ -242,7 +242,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Hardhat - [@HardhatHQ](https://twitter.com/HardhatHQ)
-Patrick Collins - [@patrickalphac](https://twitter.com/patrickalphac)
+Suleiman Abdullahi Aliyu - [@bauchibred](https://twitter.com/Bauchibred)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
